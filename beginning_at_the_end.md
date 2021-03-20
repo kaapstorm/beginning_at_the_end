@@ -473,5 +473,5 @@ This is the death that gives birth to meaning.
 ___
 ![Krishna shows Arjuna his Universal form](krishna_shows_arjuna_his_universal_form.jpg "Krishna shows Arjuna his Universal form (bazaar art by C. Konddiah Raja, c.1950's)")
 
-कालोऽस्मि लोकक्षयकृत्प्रवृद्धो
+कालोऽस्मि लोकक्षयकृत्प्रवृद्धो <br/>
 लोकान्समाहर्तुमिह प्रवृत्तः
