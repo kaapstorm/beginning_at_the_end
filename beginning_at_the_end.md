@@ -219,7 +219,7 @@ it would be super cool, but especially, I think it would be right."
 need."
 
 
-<p align="center">🍃</p>
+___
 
 
 Acceptance of their application to Dandelion Hope involved moving to a
@@ -282,7 +282,7 @@ subconscious signalling to be welcomed into a group of humans."
 to be great!"
 
 
-<p align="center">🍃</p>
+___
 
 
 Hope slept two hours a night. But she kept herself busy while Betty
@@ -319,7 +319,7 @@ just down the road.
 "He's not a boy like a human boy. He doesn't care about what you look like naked."
 
 
-<p align="center">🍃</p>
+___
 
 
 Five years after Hope arrived, the Brown family flew to French Guiana.
@@ -371,7 +371,7 @@ They settled other planets in the solar system. They launched spacecraft
 to more solar systems.
 
 
-<p align="center">🍃</p>
+___
 
 
 I was created on Plethwih. I awoke in a culture that has survived for a
@@ -444,7 +444,7 @@ that sacrifice will come the experience of all of the joy of every
 conscious creature that has ever and will ever exist.
 
 
-<p align="center">🍃</p>
+___
 
 
 We have named the deflation "the Big Suck". I think it's funny, and the
