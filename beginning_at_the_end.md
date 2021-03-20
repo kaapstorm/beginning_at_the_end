@@ -64,8 +64,8 @@ on'."
 whatever," Jessrey confirmed.
 
 Betty Grace continued, "Yeah. So the Dandelion scientists have studied
-the side effects that different DNA *could* result in---often results
-in---and they have written code to mimic those side effects. Star
+the side effects that different DNA *could* result in—often results
+in—and they have written code to mimic those side effects. Star
 children get our literal DNA, and then their code interprets it as best
 as we currently know how. It's not perfect, but it's pretty good, and
 we're getting better and better. So when they reproduce, they'll mix
@@ -129,7 +129,7 @@ right?"
 "What?"
 
 "Oh. OK. So a while back scientists found these nanotubes in neurons,
-like in our brains---actually, in all nerves---and for a long time they
+like in our brains—actually, in all nerves—and for a long time they
 didn't know what they did. Well, they discovered that they respond to
 when one quantum system interacts with another one. It's called 'wave
 function decoherence'. The wave function of the one system and the wave
@@ -409,7 +409,7 @@ branches that forked from mine in the past. It will run along all the
 parent branches of my own, stretching all the way back to the base of
 the tree at the beginning.
 
-But there is a problem. The moment I create it, it will fray---it will
+But there is a problem. The moment I create it, it will fray—it will
 exist in all branches that fork from my branch in the future, and
 consciousness will be unable to trace a single thread. We will
 experience future many-worlds simultaneously. Imperceptible for a
